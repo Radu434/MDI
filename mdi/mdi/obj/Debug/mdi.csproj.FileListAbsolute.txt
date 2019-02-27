@@ -1,0 +1,12 @@
+E:\Luca\C#\mdi\mdi\bin\Debug\mdi.exe.config
+E:\Luca\C#\mdi\mdi\bin\Debug\mdi.exe
+E:\Luca\C#\mdi\mdi\bin\Debug\mdi.pdb
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.frmMain.resources
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.Properties.Resources.resources
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.csproj.GenerateResource.Cache
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.exe
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.pdb
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.frmCautare.resources
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.frmAdaugare.resources
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.frmModificare.resources
+E:\Luca\C#\mdi\mdi\obj\Debug\mdi.frmStergere.resources
